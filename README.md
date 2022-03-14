@@ -2,9 +2,7 @@
 
 Nice to meet you! 👋  My name is Ruben Nijhuis, I'm a creative developer based in Amsterdam.
 
-In my day-to-day life, I work on web development challenges at startups, create cool projects at Codam Coding College, and write documentation and tools to make developing for developers easier.
-
-Alongside coding, I love training my creative muscle by designing posters and creating 3D artwork. <a target="_" href="https://rubennijhuis.com/gallery">You can find my work here</a>
+In my day-to-day life, I work on web development challenges at startups, create cool projects at Codam Coding College, and write documentation and tools to make developing for developers easier. Alongside coding, I love training my creative muscle by designing posters and creating 3D artwork. <a target="_" href="https://rubennijhuis.com/gallery">You can find my work here</a>
 
 I am always up for a challenge so if you need help with your project or want someone to spar with, hit me up!
 
