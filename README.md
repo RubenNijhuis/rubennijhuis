@@ -14,6 +14,6 @@ I am always up for a challenge so if you need help with your project or want som
 
 📸  <a target="_" href="https://instagram.com/ruben__nijhuis">Find me on instagram →</a> <br>
 
-🕸  <a target="_" href="https://rubennijhuis.com">My internet mancave →</a> <br>
+🕸  <a target="_" href="https://rubennijhuis.com">My internet cave →</a> <br>
 
 🎓  <a target="_" href="https://profile.intra.42.fr/users/rnijhuis">For my fellow 42 students →</a>
