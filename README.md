@@ -4,7 +4,7 @@ Nice to meet you! 👋  My name is Ruben Nijhuis, I'm a creative developer based
 
 In my day-to-day life, I work on web development challenges at startups, create cool projects at Codam Coding College, and write documentation and tools to make developing for developers easier. Alongside coding, I love training my creative muscle by designing posters and creating 3D artwork. <a target="_" href="https://rubennijhuis.com/gallery">You can find my work here</a>
 
-Currently I am changing the way we aproach habits in our daily life at startup called MTTRS, creating an app where social activity empowers people who want to create a more healthy and sustainable living.
+Currently I am changing the way we aproach habits in our daily life at startup called MTTRS. Creating an app where social interactivity empowers people who want to create a more healthy and sustainable lifestyle.
 
 I am always up for a challenge so if you need help with your project or want someone to spar with, hit me up!
 
