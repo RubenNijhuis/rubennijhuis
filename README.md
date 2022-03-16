@@ -1,7 +1,6 @@
 <a href="https://rubennijhuis.com"><img src="https://images.ctfassets.net/vf2eiv36rew2/3hXhnxi3oJYrpkPOFqheVE/a33b25b455d47a5bdfab83a9e1168fc9/Untitled-2-01.png?w=4000&h=2249&q=20&fm=webp"></a>
 
 <br>
-<br>
 
 Nice to meet you! 👋  My name is Ruben Nijhuis, I'm a creative developer based in Amsterdam. Working in the visual space 👻
 
@@ -11,7 +10,6 @@ Currently I am changing the way we aproach habits in our daily life at startup c
 
 I am always up for a challenge so if you need help with your project or want someone to spar with, hit me up!
 
-<br>
 <br>
 
 📬  <a href="mailto:contact@rubennijhuis.com">Send me an e-mail →</a>
