@@ -1,5 +1,8 @@
 <a href="https://rubennijhuis.com"><img src="https://images.ctfassets.net/vf2eiv36rew2/3hXhnxi3oJYrpkPOFqheVE/a33b25b455d47a5bdfab83a9e1168fc9/Untitled-2-01.png?w=4000&h=2249&q=20&fm=webp"></a>
 
+<br>
+<br>
+
 Nice to meet you! 👋  My name is Ruben Nijhuis, I'm a creative developer based in Amsterdam. Working in the visual space 👻
 
 In my day-to-day life, I work on web development challenges at startups, create cool projects at Codam Coding College, and write documentation and tools to make developing for developers easier. Alongside coding, I love training my creative muscle by designing posters and creating 3D artwork. <a target="_" href="https://rubennijhuis.com/gallery">You can find my work here</a>
@@ -7,6 +10,9 @@ In my day-to-day life, I work on web development challenges at startups, create 
 Currently I am changing the way we aproach habits in our daily life at startup called MTTRS. Creating an app where social interactivity empowers people who want to create a more healthy and sustainable lifestyle.
 
 I am always up for a challenge so if you need help with your project or want someone to spar with, hit me up!
+
+<br>
+<br>
 
 📬  <a href="mailto:contact@rubennijhuis.com">Send me an e-mail →</a>
 
