@@ -4,7 +4,7 @@
 
 Nice to meet you! 👋 My name is Ruben Nijhuis, a creative developer based in Amsterdam. Working in the visual space 👻
 
-In my day-to-day life, I work on web development challenges at startups, create cool projects at Codam Coding College, and write documentation and tools to make developing for developers easier. Alongside coding, I love training my creative muscle by designing posters, creating 3D artwork, and exploring urban photography. You can find my work <a href="https://rubennijhuis.com/gallery">here →</a>
+In my day-to-day life, I work on web development challenges at startups, create cool projects at Codam Coding College, and write documentation and tools to make developing for developers easier. Alongside coding, I love training my creative muscle by designing posters, creating 3D artwork, orchestrating house music mixes, and exploring urban photography. You can find my work <a href="https://rubennijhuis.com/gallery">here →</a>
 
 Currently, I am changing the way we approach habits in our daily life at a startup called MTTRS. Creating an app where social interactivity empowers people who want to create a healthy and sustainable lifestyle.
 
@@ -24,3 +24,5 @@ I am always up for a challenge so if you need help with your project or want som
 🕸  <a href="https://rubennijhuis.com">My internet cave →</a>
 
 🎓  <a href="https://profile.intra.42.fr/users/rnijhuis">For my fellow 42 students →</a>
+
+🎶  <a href="https://soundcloud.com/user-945766532-607674239">My DJ Mixes for your ears →</a>
