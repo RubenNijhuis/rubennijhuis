@@ -10,7 +10,6 @@ Currently, I am changing the way we approach habits in our daily life at a start
 
 I am always up for a challenge so if you need help with your project or want someone to spar with, hit me up!
 
-
 <br>
 
 📬  <a href="mailto:contact@rubennijhuis.com">Send me an e-mail →</a>
@@ -19,7 +18,7 @@ I am always up for a challenge so if you need help with your project or want som
 
 📸  <a href="https://instagram.com/ruben__nijhuis">Find me on instagram →</a>
 
-🤙  <a href="https://github.com/RubenNijhuis/Reusable-Components">My current side project →</a>
+🤙  <a href="https://github.com/RubenNijhuis/Mini-Ray-Tracer">My current side project →</a>
 
 🕸  <a href="https://rubennijhuis.com">My internet cave →</a>
 
