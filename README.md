@@ -6,7 +6,7 @@
 
 In my day-to-day life, I work on web/app development challenges at startups, create cool projects at Codam Coding College <a href="https://profile.intra.42.fr/users/rnijhuis">(42 Network)</a>, and write documentation and tools to make developing for developers easier.
 
-Alongside coding, I love exploring my creativity by designing posters, creating 3D artwork, orchestrating house <a href="https://soundcloud.com/user-945766532-607674239">music mixes</a>, and exploring urban photography. You can find my work <a href="https://rubennijhuis.com/gallery">here →</a>
+Alongside coding, I love discovering the creative world by designing posters, creating 3D artwork, orchestrating house <a href="https://soundcloud.com/user-945766532-607674239">music mixes</a>, and exploring urban photography. You can find my work <a href="https://rubennijhuis.com/gallery">here →</a>
 
 <br>
 
