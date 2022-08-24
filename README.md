@@ -8,8 +8,8 @@ Alongside coding, I love discovering the creative world by designing posters, cr
 
 <br>
 
-📬  <a href="mailto:contact@rubennijhuis.com">Send me an e-mail →</a>
+📬  <a href="mailto:contact@rubennijhuis.com">→ Send me an e-mail</a>
 
-📸  <a href="https://instagram.com/ruben__nijhuis">Find me on instagram →</a>
+📸  <a href="https://instagram.com/ruben__nijhuis">→ Find me on instagram</a>
 
-🕸  <a href="https://rubennijhuis.com">The internet cave →</a>
+🕸  <a href="https://rubennijhuis.com">→ The internet cave</a>
